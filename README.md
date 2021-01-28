@@ -5,7 +5,7 @@ Nested things are easy to find.
 
 ## Roadmap (TODO)
 
-- [ ] Add some runnable project basis (boilerplate)
+- [x] Add some runnable project basis (boilerplate)
 - [ ] Specify data model (things and containers relations)
 - [ ] Specify how thing are located (address, coords, etc.)
 - [ ] Make main actions (add, edit, move, find)
