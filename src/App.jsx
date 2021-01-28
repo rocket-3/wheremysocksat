@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          spem bika  <code>{count}</code> seconds.
+          I`ll become Hokage! <code>{count}</code> seconds.
         </p>
       </header>
     </div>
